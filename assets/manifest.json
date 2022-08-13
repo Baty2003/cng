@@ -1,0 +1,10 @@
+{
+"version": "1.0",
+"api_version": 1,
+"layout":
+	{
+	"logo": "https://vestacng.ru/assets/images/manifest.png",
+	"color": "#fff",
+	"show_title": false
+	}
+}
